@@ -40,7 +40,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 		initView();
 		initEvent();
 		setSelect(3);
-		//ÎÒ°®Äãgit
+		//æˆ‘çˆ±ä½ git1
 	}
 
 	private void initEvent()
@@ -150,8 +150,8 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 	private void setTab(int i)
 	{
 		resetImgs();
-		// ÉèÖÃÍ¼Æ¬ÎªÁÁÉ«
-		// ÇĞ»»ÄÚÈİÇøÓò
+		// è®¾ç½®å›¾ç‰‡ä¸ºäº®è‰²
+		// åˆ‡æ¢å†…å®¹åŒºåŸŸ
 		switch (i)
 		{
 		case 0:
@@ -170,7 +170,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 	}
 
 	/**
-	 * ÇĞ»»Í¼Æ¬ÖÁ°µÉ«
+	 * åˆ‡æ¢å›¾ç‰‡è‡³æš—è‰²
 	 */
 	private void resetImgs()
 	{
