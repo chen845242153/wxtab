@@ -39,7 +39,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 		setContentView(R.layout.activity_main);
 		initView();
 		initEvent();
-		setSelect(2);
+		setSelect(3);
 	}
 
 	private void initEvent()
