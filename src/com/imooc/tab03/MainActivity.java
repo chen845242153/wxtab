@@ -40,6 +40,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 		initView();
 		initEvent();
 		setSelect(3);
+		//ÎÒ°®Äãgit
 	}
 
 	private void initEvent()
