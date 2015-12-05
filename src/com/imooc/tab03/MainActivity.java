@@ -37,11 +37,9 @@ public class MainActivity extends FragmentActivity implements OnClickListener
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_main);
-
 		initView();
 		initEvent();
-		
-		setSelect(1);
+		setSelect(2);
 	}
 
 	private void initEvent()
